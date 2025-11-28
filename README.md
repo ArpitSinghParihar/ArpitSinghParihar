@@ -2,7 +2,7 @@
 ### A Passionate Full Stack Developer (MERN)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArpitSinghParihar&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/ArpitSinghParihar?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/ArpitSinghParihar?style=social?cacheSeconds=0)
 ![GitHub Stars](https://img.shields.io/github/stars/ArpitSinghParihar?style=social)
 
 ---
